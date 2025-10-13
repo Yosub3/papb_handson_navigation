@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "339385179465",
-    "project_id": "papb-praktikum-praktek4",
-    "storage_bucket": "papb-praktikum-praktek4.firebasestorage.app"
+    "project_number": "1000518343389",
+    "project_id": "papb-handson-navigation",
+    "storage_bucket": "papb-handson-navigation.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:339385179465:android:acf5eedd9a8ed998eb4e98",
+        "mobilesdk_app_id": "1:1000518343389:android:1ec9d2819b4946756d1934",
         "android_client_info": {
-          "package_name": "com.example.papb_praktikum_praktek4"
+          "package_name": "com.example.papb_handson_navigation"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCIoz8yr6Ne8oL2C-EyDXiPItT-nFhKuqc"
+          "current_key": "AIzaSyDoPbUb-AK5QGlhC7jBfWhbTM7cFUwgHT8"
         }
       ],
       "services": {
