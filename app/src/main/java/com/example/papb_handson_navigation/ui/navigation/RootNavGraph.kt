@@ -6,6 +6,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.navigation
 import androidx.navigation.compose.composable
 import com.example.papb_handson_navigation.ui.screens.PlaceholderHomeScreen
+import com.example.papb_handson_navigation.ui.screens.SplashScreen
 
 @Composable
 fun RootNavGraph(

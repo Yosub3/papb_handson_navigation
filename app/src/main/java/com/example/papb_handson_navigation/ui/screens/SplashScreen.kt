@@ -1,4 +1,4 @@
-package com.example.papb_handson_navigation.ui.navigation
+package com.example.papb_handson_navigation.ui.screens
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.CircularProgressIndicator
