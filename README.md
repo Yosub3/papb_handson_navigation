@@ -32,7 +32,6 @@ Proyek ini dibangun menggunakan:
 -   **UI Toolkit**: [Jetpack Compose](https://developer.android.com/jetpack/compose) (UI deklaratif modern)
 -   **Navigasi**: [Jetpack Compose Navigation](https://developer.android.com/jetpack/compose/navigation)
 -   **Desain Sistem**: [Material 3](https://m3.material.io/)
--   **Fitur Tema**: Mendukung tema Terang (Light) & Gelap (Dark) serta warna dinamis (*Dynamic Color*) di Android 12+.
 
 ---
 
