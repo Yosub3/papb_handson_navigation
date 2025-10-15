@@ -29,7 +29,7 @@ fun RootNavGraph(
 
         navigation(startDestination = Routes.HOME, route = Routes.MAIN_GRAPH) {
             composable(Routes.HOME) {
-                PlaceholderHomeScreen()
+                MainScaffold()
             }
         }
     }
