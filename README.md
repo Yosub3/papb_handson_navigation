@@ -28,7 +28,7 @@ Aplikasi ini mengimplementasikan beberapa fitur navigasi dan UI, antara lain:
 
 Proyek ini dibangun menggunakan:
 
--   **Bahasa Pemrograman**: 100% [Kotlin](https://kotlinlang.org/)
+-   **Bahasa Pemrograman**: [Kotlin](https://kotlinlang.org/)
 -   **UI Toolkit**: [Jetpack Compose](https://developer.android.com/jetpack/compose) (UI deklaratif modern)
 -   **Navigasi**: [Jetpack Compose Navigation](https://developer.android.com/jetpack/compose/navigation)
 -   **Desain Sistem**: [Material 3](https://m3.material.io/)
