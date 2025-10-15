@@ -21,6 +21,7 @@ import com.example.papb_handson_navigation.ui.screens.AddScreen
 import com.example.papb_handson_navigation.ui.screens.ProfileScreen
 import com.example.papb_handson_navigation.ui.screens.SettingsScreen
 import com.example.papb_handson_navigation.ui.screens.DetailScreen
+import com.example.papb_handson_navigation.ui.screens.EditScreen
 import kotlinx.coroutines.launch
 
 // --- BottomNav items ---
@@ -165,6 +166,10 @@ private fun MainNavHost(navController: NavHostController) {
         composable("${Routes.DETAIL}/{id}") { backStack ->
             val id = backStack.arguments?.getString("id")
             DetailScreen(navController, id)
+        }
+        composable("${Routes.EDIT}/{id}") { backStack ->
+            val id = backStack.arguments?.getString("id")
+            EditScreen(navController, id)
         }
         composable(Routes.PROFILE) { ProfileScreen() }
         composable(Routes.SETTINGS) { SettingsScreen() }
